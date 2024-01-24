@@ -281,8 +281,8 @@ rt.setup({
 	tools = {
 		-- this shows inline hints as virtual text, all right-aligned to one another, padded 2 chars from end of code
 		inlay_hints = {
-			max_len_align = true,
-			max_len_align_padding = 2
+			--max_len_align = true,
+			--max_len_align_padding = 2
 		}
 	}
 })
